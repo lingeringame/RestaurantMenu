@@ -1,0 +1,14 @@
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.exe
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.deps.json
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.runtimeconfig.json
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.runtimeconfig.dev.json
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.dll
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.pdb
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.csproj.AssemblyReference.cache
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.AssemblyInfo.cs
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.dll
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.pdb
+C:\Users\icase\Desktop\LaunchCode\csharp-practice\Studio-Ch4\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.genruntimeconfig.cache
