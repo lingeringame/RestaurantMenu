@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace RestaurantMenu
+//Edited from VS Code Web!
 {
     public class Menu
     {
         private List<MenuItem> menu = new List<MenuItem>();
         private string lastUpdated = string.Empty;
+        
         public Menu(List<MenuItem> menu)
         {
             this.menu = menu;
