@@ -11,11 +11,23 @@ namespace RestaurantMenu
         public Menu(List<MenuItem> menu)
         {
             this.menu = menu;
-            this.lastUpdated = DateTime.Now.ToString();
+            lastUpdated = DateTime.Now.ToString();
         }
         public void checkLastDate()
         {
             Console.WriteLine("Last update date: " + this.lastUpdated);
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Menu menu &&
+                   EqualityComparer<List<MenuItem>>.Default.Equals(this.menu, menu.menu) &&
+                   lastUpdated == menu.lastUpdated;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(menu, lastUpdated);
         }
     }
 }
